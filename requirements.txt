@@ -6,7 +6,7 @@ fonttools==4.55.3
 importlib-resources==6.4.5
 zipp==3.21.0
 kiwisolver==1.4.7
-packaging==24.2
+packaging==23.2
 pillow==10.4.0
 pyparsing==3.2.0
 python-dateutil==2.9.0.post0
